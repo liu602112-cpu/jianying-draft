@@ -1,0 +1,100 @@
+{
+ "_说明": "复合片段模板，取自「0922直播」里用户手动建的「复合片段2」。video=外层视频素材，drafts=materials.drafts 条目（不含 id/draft），sub=子草稿骨架（不含 tracks/materials），sub_materials=子草稿 materials 的空列表骨架，sub_config=subdraft/<id>/sub_draft_config.json",
+ "video": {
+  "type": "video",
+  "duration": 144833333,
+  "path": "",
+  "width": 1080,
+  "height": 1920,
+  "material_id": "",
+  "material_name": "复合片段2",
+  "crop": {},
+  "extra_type_option": 2,
+  "stable": {
+   "time_range": {}
+  },
+  "matting": {
+   "path": ""
+  },
+  "check_flag": 197195775,
+  "video_algorithm": {
+   "path": "",
+   "story_video_modify_video_config": {}
+  },
+  "is_unified_beauty_mode": true,
+  "is_set_beauty_mode": true,
+  "is_copyright": true,
+  "beauty_face_auto_preset": {},
+  "video_mask_stroke": {
+   "resource_id": "",
+   "path": "",
+   "type": ""
+  },
+  "video_mask_shadow": {
+   "resource_id": "",
+   "path": ""
+  }
+ },
+ "drafts": {
+  "type": "combination",
+  "combination_type": "none",
+  "draft_file_path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/subdraft/47093B68-5F26-4FB4-BC08-D27FBB427828/draft_content.json",
+  "draft_cover_path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/subdraft/47093B68-5F26-4FB4-BC08-D27FBB427828/draft_cover.jpg",
+  "draft_config_path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/subdraft/47093B68-5F26-4FB4-BC08-D27FBB427828/sub_draft_config.json"
+ },
+ "sub": {
+  "version": 360000,
+  "new_version": "189.0.0",
+  "color_space": 0,
+  "config": {
+   "maintrack_adsorb": false
+  },
+  "keyframes": {},
+  "platform": {
+   "os": "mac",
+   "os_version": "26.3",
+   "app_id": 3704,
+   "app_version": "11.6.0-beta3",
+   "app_source": "lv",
+   "device_id": "bdc0eab0f8d72fa8ccec86aaa0582b5a",
+   "mac_address": "802f2ab897acbb528d9bbd7be6f12271"
+  },
+  "last_modified_platform": {},
+  "render_index_track_mode_on": true,
+  "path": "",
+  "uneven_animation_template_info": {},
+  "smart_ads_info": {},
+  "function_assistant_info": {
+   "fps": {}
+  }
+ },
+ "sub_materials": {
+  "videos": [],
+  "canvases": [],
+  "material_animations": [],
+  "placeholder_infos": [],
+  "speeds": [],
+  "sound_channel_mappings": [],
+  "material_colors": [],
+  "vocal_separations": []
+ },
+ "sub_config": {
+  "audio_path": "",
+  "cover_height": 320,
+  "cover_path": "draft_cover.jpg",
+  "cover_width": 180,
+  "create_time": 1790157097,
+  "draft_json_file": "draft_content.json",
+  "id": "47093B68-5F26-4FB4-BC08-D27FBB427828",
+  "import_time_ms": 1790157097347,
+  "is_from_multi_timeline": false,
+  "is_from_sub_draft": true,
+  "material_color_tag": "",
+  "name": "复合片段2",
+  "project_id": "47093B68-5F26-4FB4-BC08-D27FBB427828",
+  "rough_cut_duration": 144833333,
+  "rough_cut_start": 0,
+  "source": "timeline",
+  "type": "video"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "_说明": "sakura 个人字幕预设（2026-10-02 取自「1001切9_零基础自学转行就三步」第 1 条字幕）：思源黑体加粗 8 号、白字黑阴影、30% 黑底框。fields = 文本素材顶层字段，style = content.styles 的单段样式（range 运行时按文字长度补），clip = 字幕片段位置。",
+ "fields": {
+  "combo_info": {},
+  "caption_template_info": {
+   "resource_id": "",
+   "path": ""
+  },
+  "layer_weight": 1,
+  "line_spacing": 0.02,
+  "has_shadow": true,
+  "shadow_color": "#000000",
+  "shadow_alpha": 0.8999999761581421,
+  "shadow_smoothing": 0.45000000670552254,
+  "shadow_distance": 4.999999523162842,
+  "shadow_point": {
+   "x": 0.636396042376431,
+   "y": -0.6363960423764309
+  },
+  "shadow_angle": -45.0,
+  "border_width": 0.08,
+  "text_color": "#ffffff",
+  "font_size": 8.0,
+  "font_path": "~/Movies/JianyingPro/User Data/Cache/effect/6740511815358222859/3d80be25a18fb67455744136c1262c91/细体-思源黑体7号.otf",
+  "font_resource_id": "6740511815358222859",
+  "initial_scale": 1.0,
+  "use_effect_default_color": false,
+  "bold_width": 0.00800000037997961,
+  "check_flag": 55,
+  "background_color": "#000000",
+  "background_alpha": 0.2969035456730769,
+  "background_style": 1,
+  "lyrics_template": {
+   "resource_id": "",
+   "path": ""
+  }
+ },
+ "style": {
+  "bold": true,
+  "fill": {
+   "alpha": 1.0,
+   "content": {
+    "gradient": {
+     "alpha": [],
+     "angle": 0.0,
+     "color": [],
+     "mode": "all",
+     "percent": [],
+     "style": "linear"
+    },
+    "render_type": "solid",
+    "solid": {
+     "alpha": 1.0,
+     "color": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "texture": {
+     "alpha": 1.0,
+     "angle": 0.0,
+     "blend": "no",
+     "flip": [],
+     "path": "",
+     "playSpeed": 1.0,
+     "range": 0,
+     "scale": 1.0,
+     "stretchMode": "fit",
+     "wrapMode": "repeat"
+    }
+   }
+  },
+  "font": {
+   "id": "6740511815358222859",
+   "path": "~/Movies/JianyingPro/User Data/Cache/effect/6740511815358222859/3d80be25a18fb67455744136c1262c91/细体-思源黑体7号.otf"
+  },
+  "shadows": [
+   {
+    "alpha": 0.8999999761581421,
+    "angle": -45.0,
+    "content": {
+     "render_type": "solid",
+     "solid": {
+      "alpha": 1.0,
+      "color": [
+       0.0,
+       0.0,
+       0.0
+      ]
+     }
+    },
+    "diffuse": 0.02500000037252903,
+    "distance": 4.999999523162842
+   }
+  ],
+  "size": 8.0,
+  "useLetterColor": true
+ },
+ "clip": {
+  "scale": {
+   "x": 1.0,
+   "y": 1.0
+  },
+  "transform": {
+   "x": 0.0,
+   "y": -0.56
+  },
+  "flip": {}
+ }
+}
